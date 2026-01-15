@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/leofrom_amazon" target="blank"><img src="https://img.shields.io/twitter/follow/leofrom_amazon?logo=twitter&style=for-the-badge" alt="leofrom_amazon" /></a> </p>
 
-- 🔭 I’m currently working on **CartPole**
+- 🔭 I’m currently working on **Stock Intelligence Copilot**
 
-- 🌱 I’m currently learning **Reinforcement Learning and Fine Tuning**
+- 🌱 I’m currently learning **MCPs**
 
-- 👯 I’m looking to collaborate on **Making a Project out of a Research Paper**
+- 👯 I’m looking to collaborate on **Voice Based AI Agents**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-nihalxd.vercel.app/](https://portfolio-nihalxd.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://nihaallportflio.vercel.app/](https://nihaallportflio.vercel.app/)
 
 - 📝 My Research Paper [https://docs.google.com/document/d/1X-26GSlcDji15vyylyUGjeEd24TwK1m3/edit?usp=sharing&ouid=102631358353590313279&rtpof=true&sd=true](https://docs.google.com/document/d/1X-26GSlcDji15vyylyUGjeEd24TwK1m3/edit?usp=sharing&ouid=102631358353590313279&rtpof=true&sd=true)
 
-- 💬 Ask me about **LLMs and Research Paper**
+- 💬 Ask me about **RateMyProf India**
 
 - 📫 How to reach me **nihalpardeshi12344@gmail.com**
 
