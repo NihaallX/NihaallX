@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nihal Pardeshi</h1>
-<h3 align="center">AI/ML engineering student specializing in building customized LLMs, fine-tuning transformers, and deploying creative, character-driven voice AI projects.</h3>
+<h3 align="center">AI engineering student specializing in building customized LLMs, fine-tuning transformers, and deploying creative, character-driven voice AI projects.</h3>
 
 <p align="left"> <a href="https://twitter.com/leofrom_amazon" target="blank"><img src="https://img.shields.io/twitter/follow/leofrom_amazon?logo=twitter&style=for-the-badge" alt="leofrom_amazon" /></a> </p>
 
