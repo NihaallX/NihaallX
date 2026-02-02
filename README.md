@@ -1,34 +1,62 @@
-<h1 align="center">Hi 👋, I'm Nihal Pardeshi</h1>
-<h3 align="center">AI engineering student specializing in building customized LLMs, fine-tuning transformers, and deploying creative, character-driven voice AI projects.</h3>
+# Hi, I'm Nihal Pardeshi 👋
 
-<p align="left"> <a href="https://twitter.com/leofrom_amazon" target="blank"><img src="https://img.shields.io/twitter/follow/leofrom_amazon?logo=twitter&style=for-the-badge" alt="leofrom_amazon" /></a> </p>
+📍 India | 💼 AI Engineering Student | 🚀 Building customized LLMs & Voice AI
 
-- 🔭 I’m currently working on **Intern-Stellar**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat&logo=google&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
 
-- 🌱 I’m currently learning **MCPs**
+> AI engineering student specializing in building customized LLMs, AI applications, fine-tuning transformers, and deploying creative, character-driven voice AI projects.
 
-- 👯 I’m looking to collaborate on **Voice Based AI Agents**
+## 🔗 Featured Project
+🔍 **[relayX](https://github.com/Gauravguddeti/relayX)** – AI-powered voice calling platform that makes 1000s of personalized calls simultaneously
 
-- 👨‍💻 All of my projects are available at [https://nihaallportflio.vercel.app/](https://nihaallportflio.vercel.app/)
+## 🚀 Current Projects
 
-- 📝 My Research Paper [https://docs.google.com/document/d/1X-26GSlcDji15vyylyUGjeEd24TwK1m3/edit?usp=sharing&ouid=102631358353590313279&rtpof=true&sd=true](https://docs.google.com/document/d/1X-26GSlcDji15vyylyUGjeEd24TwK1m3/edit?usp=sharing&ouid=102631358353590313279&rtpof=true&sd=true)
+- 🤖 **[Intern-stellar](https://github.com/NihaallX/Intern-stellar)** - AI-powered job discovery system that scrapes, scores, and emails relevant AI engineering roles
+- 🎓 **[ratemyprof](https://github.com/NihaallX/ratemyprof)** - India's first comprehensive professor and college rating platform with privacy-first anonymous reviews
+- 💘 **[datehelp](https://github.com/NihaallX/datehelp)** - AI-powered dating profile roast and optimization tool for Gen Z with photo ranking and glow-up suggestions
+- 📊 **[StockIntelligenceCopilot](https://github.com/NihaallX/StockIntelligenceCopilot)** - AI-assisted stock market analysis with probabilistic insights and explainable reasoning ⭐
+- 🏠 **[HouseGPT](https://github.com/NihaallX/HouseGPT)** - Local sarcastic medical AI assistant embodying Dr. House with voice synthesis and RAG-enhanced responses
+- � **[Reinforcement-Learning](https://github.com/NihaallX/Reinforcement-Learning)** - CartPole RL suite with DQN, human-in-the-loop gameplay, and imitation learning
+- 🔧 **[RepoStructureAnalyzer-CleanupTool](https://github.com/NihaallX/RepoStructureAnalyzer-CleanupTool)** - Python repository structure analyzer with safe, read-only proposals and rollback support
+- 🎵 **[moodify](https://github.com/NihaallX/moodify)** - AI-powered mood-based music recommendation with Spotify integration and emotion detection
+- 📚 **[100daysofML](https://github.com/NihaallX/100daysofML)** - 100 days of machine learning codes and comprehensive resources
+- 🤖 **[automation-system](https://github.com/NihaallX/automation-system)** - File processing automation system with validation, logging, and safe failure handling
 
-- 💬 Ask me about **RateMyProf India**
+## 💡 About Me
 
-- 📫 How to reach me **nihalpardeshi12344@gmail.com**
+- 🔭 I'm currently working on **Intern-stellar**
+- 🌱 I'm learning **MCPs (Model Context Protocol)**
+- 💬 Ask me about **GenAI, LLMs, Voice AI, Transformers, Prompt Engineering**
+- 👯 Looking to collaborate on **Voice Based AI Agents**
+- 📫 How to reach me: **nihalpardeshi12344@gmail.com**
+- 🌐 Website: **[nihaallportflio.vercel.app](https://nihaallportflio.vercel.app/)**
+- 📄 My Resume: **[View Resume](https://docs.google.com/document/d/1BlymmgRnpbdLU44Z1xkYDOOUUJqBptbEB1qCuL8CtSA/edit?usp=sharing)**
+- 🐦 Twitter: **[@LeoFrom_Amazon](https://x.com/LeoFrom_Amazon)**
+- 💼 LinkedIn: **[nihaallp](https://www.linkedin.com/in/nihaallp/)**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1BlymmgRnpbdLU44Z1xkYDOOUUJqBptbEB1qCuL8CtSA/edit?usp=sharing](https://docs.google.com/document/d/1BlymmgRnpbdLU44Z1xkYDOOUUJqBptbEB1qCuL8CtSA/edit?usp=sharing)
+## 📈 GitHub Stats
 
-- ⚡ Fun fact **i walk like DR HOUSE sometimes, makes me think i am a genius like him**
+![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=NihaallX&show_icons=true&theme=dark)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/leofrom_amazon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leofrom_amazon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nihaallp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihaallp" height="30" width="40" /></a>
-<a href="https://instagram.com/nihaallxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nihaallxd" height="30" width="40" /></a>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NihaallX&layout=compact&theme=dark)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🔥 Recent Activity
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihaallx&show_icons=true&locale=en&layout=compact" alt="nihaallx" /></p>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+⭐️ From [NihaallX](https://github.com/NihaallX)
