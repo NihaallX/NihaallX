@@ -21,7 +21,7 @@
 > AI engineering student specializing in building customized LLMs, AI applications, fine-tuning transformers, and deploying creative, character-driven voice AI projects.
 
 ## 🔗 Featured Project
-🔍 **[relayX](https://github.com/Gauravguddeti/relayX)** – AI-powered voice calling platform that makes 1000s of personalized calls simultaneously
+🔍 **[relayX](https://github.com/Gauravguddeti/relayX)** – AI-powered IVR voice calling platform for small to mid level businesses that makes outbound calling easier and possible.
 
 ## 🚀 Current Projects
 
