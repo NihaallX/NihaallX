@@ -2,6 +2,8 @@
 
 📍 India | 💼 AI Engineering Student | 🚀 Building customized LLMs & Voice AI
 
+![Profile Views](https://komarev.com/ghpvc/?username=NihaallX&color=blue&style=flat)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -36,7 +38,7 @@
 
 ## 💡 About Me
 
-- 🔭 I'm currently working on **Intern-stellar**
+- 🔭 I'm currently working on **[Intern-stellar](https://github.com/NihaallX/Intern-stellar)**
 - 🌱 I'm learning **MCPs (Model Context Protocol)**
 - 💬 Ask me about **GenAI, LLMs, Voice AI, Transformers, Prompt Engineering**
 - 👯 Looking to collaborate on **Voice Based AI Agents**
@@ -54,8 +56,7 @@
 
 ## 🔥 Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NihaallX&theme=github-dark)
 
 ---
 
