@@ -26,9 +26,9 @@
 ## 🚀 Current Projects
 
 - 🤖 **[Intern-stellar](https://github.com/NihaallX/Intern-stellar)** - AI-powered job discovery system that scrapes, scores, and emails relevant AI engineering roles
-- 🎓 **[ratemyprof](https://github.com/NihaallX/ratemyprof)** - India's first comprehensive professor and college rating platform with privacy-first anonymous reviews
-- 💘 **[datehelp](https://github.com/NihaallX/datehelp)** - AI-powered dating profile roast and optimization tool for Gen Z with photo ranking and glow-up suggestions
-- 📊 **[StockIntelligenceCopilot](https://github.com/NihaallX/StockIntelligenceCopilot)** - AI-assisted stock market analysis with probabilistic insights and explainable reasoning ⭐
+- 🎓 **[ratemyprof](https://ratemyprof.me/)** - India's first comprehensive professor and college rating platform with privacy-first anonymous reviews
+- 💘 **[datehelp](https://www.datehelp.tech/)** - AI-powered dating profile roast and optimization tool for Gen Z with photo ranking and glow-up suggestions
+- 📊 **[StockIntelligenceCopilot](https://stock-intelligence-copilot.vercel.app/)** - AI-assisted stock market analysis with probabilistic insights and explainable reasoning ⭐
 - 🏠 **[HouseGPT](https://github.com/NihaallX/HouseGPT)** - Local sarcastic medical AI assistant embodying Dr. House with voice synthesis and RAG-enhanced responses
 - � **[Reinforcement-Learning](https://github.com/NihaallX/Reinforcement-Learning)** - CartPole RL suite with DQN, human-in-the-loop gameplay, and imitation learning
 - 🔧 **[RepoStructureAnalyzer-CleanupTool](https://github.com/NihaallX/RepoStructureAnalyzer-CleanupTool)** - Python repository structure analyzer with safe, read-only proposals and rollback support
