@@ -32,7 +32,7 @@
 - 🏠 **[HouseGPT](https://github.com/NihaallX/HouseGPT)** - Local sarcastic medical AI assistant embodying Dr. House with voice synthesis and RAG-enhanced responses
 - � **[Reinforcement-Learning](https://github.com/NihaallX/Reinforcement-Learning)** - CartPole RL suite with DQN, human-in-the-loop gameplay, and imitation learning
 - 🔧 **[RepoStructureAnalyzer-CleanupTool](https://github.com/NihaallX/RepoStructureAnalyzer-CleanupTool)** - Python repository structure analyzer with safe, read-only proposals and rollback support
-- 🎵 **[moodify](https://github.com/NihaallX/moodify)** - AI-powered mood-based music recommendation with Spotify integration and emotion detection
+- 🎵 **[moodify]([https://github.com/NihaallX/moodify](https://moodifyxd.vercel.app/))** - AI-powered mood-based music recommendation with Spotify integration and emotion detection
 - 📚 **[100daysofML](https://github.com/NihaallX/100daysofML)** - 100 days of machine learning codes and comprehensive resources
 - 🤖 **[automation-system](https://github.com/NihaallX/automation-system)** - File processing automation system with validation, logging, and safe failure handling
 
