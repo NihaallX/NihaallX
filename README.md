@@ -39,7 +39,7 @@
 ## 💡 About Me
 
 - 🔭 I'm currently working on **[Intern-stellar](https://github.com/NihaallX/Intern-stellar)**
-- 🌱 I'm learning **MCPs (Model Context Protocol)**
+- 🌱 I'm learning **AI Product Management**
 - 💬 Ask me about **GenAI, LLMs, Voice AI, Transformers, Prompt Engineering**
 - 👯 Looking to collaborate on **Voice Based AI Agents**
 - 📫 How to reach me: **nihalpardeshi12344@gmail.com**
