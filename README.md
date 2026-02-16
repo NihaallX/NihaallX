@@ -1,6 +1,6 @@
 # Hi, I'm Nihal Pardeshi 👋
 
-📍 India | 💼 AI Engineering Student | 🚀 Building customized LLMs & Voice AI
+📍 India | 💼 AI Engineering Student | 🚀 Building AI Wrappers for Businesses
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NihaallX&color=blue&style=flat)
 
