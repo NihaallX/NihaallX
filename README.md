@@ -1,6 +1,6 @@
 # Hi, I'm Nihal Pardeshi 👋
 
-📍 India | 💼 AI Engineering Student | 🚀 Building AI Wrappers for Businesses
+📍 India | 💼 AI Engineering Student | 🚀 Building customized LLMs & Voice AI
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NihaallX&color=blue&style=flat)
 
@@ -21,29 +21,29 @@
 > AI engineering student specializing in building customized LLMs, AI applications, fine-tuning transformers, and deploying creative, character-driven voice AI projects.
 
 ## 🔗 Featured Project
-🔍 **[relayX](https://github.com/Gauravguddeti/relayX)** – AI-powered IVR voice calling platform for small to mid level businesses that makes outbound calling easier and possible.
+🔍 **[relayX](https://github.com/Gauravguddeti/relayX)** – AI-powered voice calling platform that makes 1000s of personalized calls simultaneously
 
 ## 🚀 Current Projects
 
 - 🤖 **[Intern-stellar](https://github.com/NihaallX/Intern-stellar)** - AI-powered job discovery system that scrapes, scores, and emails relevant AI engineering roles
-- 🎓 **[ratemyprof](https://ratemyprof.me/)** - India's first comprehensive professor and college rating platform with privacy-first anonymous reviews
-- 💘 **[datehelp](https://www.datehelp.tech/)** - AI-powered dating profile roast and optimization tool for Gen Z with photo ranking and glow-up suggestions
-- 📊 **[StockIntelligenceCopilot](https://stock-intelligence-copilot.vercel.app/)** - AI-assisted stock market analysis with probabilistic insights and explainable reasoning ⭐
+- 🎓 **[ratemyprof](https://github.com/NihaallX/ratemyprof)** - India's first comprehensive professor and college rating platform with privacy-first anonymous reviews
+- 💘 **[datehelp](https://github.com/NihaallX/datehelp)** - AI-powered dating profile roast and optimization tool for Gen Z with photo ranking and glow-up suggestions
+- 📊 **[StockIntelligenceCopilot](https://github.com/NihaallX/StockIntelligenceCopilot)** - AI-assisted stock market analysis with probabilistic insights and explainable reasoning ⭐
 - 🏠 **[HouseGPT](https://github.com/NihaallX/HouseGPT)** - Local sarcastic medical AI assistant embodying Dr. House with voice synthesis and RAG-enhanced responses
 - � **[Reinforcement-Learning](https://github.com/NihaallX/Reinforcement-Learning)** - CartPole RL suite with DQN, human-in-the-loop gameplay, and imitation learning
 - 🔧 **[RepoStructureAnalyzer-CleanupTool](https://github.com/NihaallX/RepoStructureAnalyzer-CleanupTool)** - Python repository structure analyzer with safe, read-only proposals and rollback support
-- 🎵 **[moodify](https://moodifyxd.vercel.app/)** - AI-powered mood-based music recommendation with Spotify integration and emotion detection
-- 📚 **[100daysofML](https://github.com/NihaallX/100daysofML)** - 100 days of machine learning codes and comprehensive resources
-- 🤖 **[automation-system](https://github.com/NihaallX/automation-system)** - File processing automation system with validation, logging, and safe failure handling
+- 🎵 **[moodify](https://github.com/NihaallX/moodify)** - AI-powered mood-based music recommendation with Spotify integration and emotion detection
+- 🧠 **[multimodal-sentiment-analysis](https://github.com/NihaallX/multimodal-sentiment-analysis)** - CGRN: conflict-aware multimodal sentiment model that geometrically detects text-image disagreement and routes sarcastic samples through a specialized conflict branch
+- 📬 **[Application-where](https://github.com/NihaallX/Application-where)** - Automated job search CRM that scans Gmail with LLM classification and surfaces a live dashboard tracking applications, interviews, and rejections
 
 ## 💡 About Me
 
 - 🔭 I'm currently working on **[Intern-stellar](https://github.com/NihaallX/Intern-stellar)**
-- 🌱 I'm learning **AI Product Management**
+- 🌱 I'm learning **MCPs (Model Context Protocol)**
 - 💬 Ask me about **GenAI, LLMs, Voice AI, Transformers, Prompt Engineering**
 - 👯 Looking to collaborate on **Voice Based AI Agents**
 - 📫 How to reach me: **nihalpardeshi12344@gmail.com**
-- 🌐 Website: **[nihaallportflio.vercel.app](https://nihaallportflio.vercel.app/)**
+- 🌐 Website: **[Portfolio](https://ai-pm-portfolio.vercel.app/)**
 - 📄 My Resume: **[View Resume](https://docs.google.com/document/d/1BlymmgRnpbdLU44Z1xkYDOOUUJqBptbEB1qCuL8CtSA/edit?usp=sharing)**
 - 🐦 Twitter: **[@LeoFrom_Amazon](https://x.com/LeoFrom_Amazon)**
 - 💼 LinkedIn: **[nihaallp](https://www.linkedin.com/in/nihaallp/)**
