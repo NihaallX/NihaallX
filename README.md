@@ -50,9 +50,9 @@
 
 ## 📈 GitHub Stats
 
-![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=NihaallX&show_icons=true&theme=dark)
+![Nihal's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NihaallX&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NihaallX&layout=compact&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NihaallX&theme=dark)](https://git.io/streak-stats)
 
 ## 🔥 Recent Activity
 
