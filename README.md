@@ -20,11 +20,12 @@
 
 > AI engineering student specializing in building customized LLMs, AI applications, fine-tuning transformers, and deploying creative, character-driven voice AI projects.
 
-## 🔗 Featured Project
-🔍 **[relayX](https://github.com/Gauravguddeti/relayX)** – AI-powered voice calling platform that makes 1000s of personalized calls simultaneously
+## 🔗 Featured Projects
+🍽️ **[Khaoozy](https://github.com/NihaallX/Khaoozy)** – College canteen food pre-ordering app with real-time order tracking, UPI payments, and auto-refund — skip the queue, not the food
 
 ## 🚀 Current Projects
 
+- 📞 **[relayX](https://github.com/Gauravguddeti/relayX)** – AI-powered voice calling platform that makes 1000s of personalized calls simultaneously
 - 🤖 **[Intern-stellar](https://github.com/NihaallX/Intern-stellar)** - AI-powered job discovery system that scrapes, scores, and emails relevant AI engineering roles
 - 🎓 **[ratemyprof](https://github.com/NihaallX/ratemyprof)** - India's first comprehensive professor and college rating platform with privacy-first anonymous reviews
 - 💘 **[datehelp](https://github.com/NihaallX/datehelp)** - AI-powered dating profile roast and optimization tool for Gen Z with photo ranking and glow-up suggestions
@@ -38,7 +39,7 @@
 
 ## 💡 About Me
 
-- 🔭 I'm currently working on **[Intern-stellar](https://github.com/NihaallX/Intern-stellar)**
+- 🔭 I'm currently working on **[Khaoozy](https://github.com/NihaallX/Khaoozy)**
 - 🌱 I'm learning **MCPs (Model Context Protocol)**
 - 💬 Ask me about **GenAI, LLMs, Voice AI, Transformers, Prompt Engineering**
 - 👯 Looking to collaborate on **Voice Based AI Agents**
@@ -50,9 +51,9 @@
 
 ## 📈 GitHub Stats
 
-![Nihal's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NihaallX&theme=github_dark)
+![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=NihaallX&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NihaallX&theme=dark)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NihaallX&layout=compact&theme=dark)
 
 ## 🔥 Recent Activity
 
