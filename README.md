@@ -18,7 +18,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
 
-> AI engineering student specializing in building customized LLMs, AI applications, fine-tuning transformers, and deploying creative, character-driven voice AI projects.
+> AI Product Manager who ships AI products end-to-end, from user research and product strategy to LLM prototyping, evaluation, and launch.
 
 ## 🔗 Featured Projects
 🍽️ **[Khaoozy](https://github.com/NihaallX/Khaoozy)** – College canteen food pre-ordering app with real-time order tracking, UPI payments, and auto-refund — skip the queue, not the food
