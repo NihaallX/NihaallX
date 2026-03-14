@@ -23,7 +23,7 @@
 ## 🔗 Featured Projects
 🍽️ **[Khaoozy](https://github.com/NihaallX/Khaoozy)** – College canteen food pre-ordering app with real-time order tracking, UPI payments, and auto-refund — skip the queue, not the food
 
-## 🚀 Current Projects
+##  Current Projects
 
 - 📞 **[relayX](https://github.com/Gauravguddeti/relayX)** – AI-powered voice calling platform that makes 1000s of personalized calls simultaneously
 - 🤖 **[Intern-stellar](https://github.com/NihaallX/Intern-stellar)** - AI-powered job discovery system that scrapes, scores, and emails relevant AI engineering roles
@@ -37,7 +37,7 @@
 - 🧠 **[multimodal-sentiment-analysis](https://github.com/NihaallX/multimodal-sentiment-analysis)** - CGRN: conflict-aware multimodal sentiment model that geometrically detects text-image disagreement and routes sarcastic samples through a specialized conflict branch
 - 📬 **[Application-where](https://github.com/NihaallX/Application-where)** - Automated job search CRM that scans Gmail with LLM classification and surfaces a live dashboard tracking applications, interviews, and rejections
 
-## 💡 About Me
+##  About Me
 
 - 🔭 I'm currently working on **[Khaoozy](https://github.com/NihaallX/Khaoozy)**
 - 🌱 I'm learning **MCPs (Model Context Protocol)**
