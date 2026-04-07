@@ -45,7 +45,7 @@
 - 👯 Looking to collaborate on **Voice Based AI Agents**
 - 📫 How to reach me: **nihalpardeshi12344@gmail.com**
 - 🌐 Website: **[Portfolio](https://ai-pm-portfolio.vercel.app/)**
-- 📄 My Resume: **[View Resume]([https://docs.google.com/document/d/1BlymmgRnpbdLU44Z1xkYDOOUUJqBptbEB1qCuL8CtSA/edit?usp=sharing](https://drive.google.com/file/d/1NreqIV-RvmetzO28F9TDR_M0RoPNqsTB/view))**
+- 📄 My Resume: **[View Resume](https://drive.google.com/file/d/1NreqIV-RvmetzO28F9TDR_M0RoPNqsTB/view)**
 - 🐦 Twitter: **[@LeoFrom_Amazon](https://x.com/LeoFrom_Amazon)**
 - 💼 LinkedIn: **[nihaallp](https://www.linkedin.com/in/nihaallp/)**
 
