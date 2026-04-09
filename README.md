@@ -21,7 +21,7 @@
 > AI Product Manager who ships AI products end-to-end, from user research and product strategy to LLM prototyping, evaluation, and launch.
 
 ## 🔗 Featured Projects
-🍽️ **[Spendly](https://github.com/Gauravguddeti/spendly)** – an AI-powered SaaS spend tracker that tells Indian startups exactly where their tool budget is bleeding, before the next renewal hits.
+🍽️ **[SPAY](https://github.com/Gauravguddeti/spendly)** – an AI-powered SaaS spend tracker that tells Indian startups exactly where their tool budget is bleeding, before the next renewal hits.
 
 ##  Current Projects
 
@@ -39,7 +39,7 @@
 
 ##  About Me
 
-- 🔭 I'm currently working on **[Spendly](https://github.com/Gauravguddeti/spendly)**
+- 🔭 I'm currently working on **[SPAY](https://github.com/Gauravguddeti/spendly)**
 - 🌱 I'm learning **MCPs (Model Context Protocol)**
 - 💬 Ask me about **GenAI, LLMs, Voice AI, Transformers, Prompt Engineering**
 - 👯 Looking to collaborate on **Voice Based AI Agents**
