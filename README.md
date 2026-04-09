@@ -39,7 +39,7 @@
 
 ##  About Me
 
-- 🔭 I'm currently working on **[Khaoozy](https://github.com/Gauravguddeti/spendly)**
+- 🔭 I'm currently working on **[Spendly](https://github.com/Gauravguddeti/spendly)**
 - 🌱 I'm learning **MCPs (Model Context Protocol)**
 - 💬 Ask me about **GenAI, LLMs, Voice AI, Transformers, Prompt Engineering**
 - 👯 Looking to collaborate on **Voice Based AI Agents**
