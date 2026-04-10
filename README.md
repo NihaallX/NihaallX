@@ -21,25 +21,25 @@
 > AI Product Manager who ships AI products end-to-end, from user research and product strategy to LLM prototyping, evaluation, and launch.
 
 ## 🔗 Featured Projects
-🍽️ **[SPAY](https://github.com/Gauravguddeti/spendly)** – an AI-powered SaaS spend tracker that tells Indian startups exactly where their tool budget is bleeding, before the next renewal hits.
+💳 **[SPAY](https://github.com/Gauravguddeti/spay)** – an AI-powered SaaS spend tracker that tells Indian startups exactly where their tool budget is bleeding, before the next renewal hits.
 
 ##  Current Projects
 
-- 📞 **[relayX](https://github.com/Gauravguddeti/relayX)** – AI-powered voice calling platform that makes 1000s of personalized calls simultaneously
+- 🍽️ **[Khaoozy](https://github.com/CelticsGN/Khaoozy)** - College canteen pre-order app with live order tracking, UPI payments, and auto-refund workflows
+- 📡 **[crowd-signal](https://github.com/CelticsGN/crowd-signal)** - AI-assisted market crowd simulation system for probabilistic sentiment mapping and explainable decision support
+- 📞 **[relayX](https://github.com/Gauravguddeti/relayX)** - AI-powered voice calling platform that makes 1000s of personalized calls simultaneously
+- 🎓 **[ratemyprof](https://github.com/CelticsGN/ratemyprof)** - Professor and college rating platform with privacy-first reviews and moderation tooling
+- 🛰️ **[Spacenos-round1](https://github.com/NihaallX/Spacenos-round1)** - Product sprint build focused on rapid execution and launch-readiness
+- 💸 **[Neo-surgeMoney](https://github.com/NihaallX/Neo-surgeMoney)** - Personal finance product concept focused on smarter spend visibility and control
+- 🧠 **[multimodal-sentiment-analysis](https://github.com/NihaallX/multimodal-sentiment-analysis)** - CGRN model for conflict-aware multimodal sentiment analysis and routing
 - 🤖 **[Intern-stellar](https://github.com/NihaallX/Intern-stellar)** - AI-powered job discovery system that scrapes, scores, and emails relevant AI engineering roles
-- 🎓 **[ratemyprof](https://github.com/NihaallX/ratemyprof)** - India's first comprehensive professor and college rating platform with privacy-first anonymous reviews
-- 💘 **[datehelp](https://github.com/NihaallX/datehelp)** - AI-powered dating profile roast and optimization tool for Gen Z with photo ranking and glow-up suggestions
-- 📊 **[StockIntelligenceCopilot](https://github.com/NihaallX/StockIntelligenceCopilot)** - AI-assisted stock market analysis with probabilistic insights and explainable reasoning ⭐
-- 🏠 **[HouseGPT](https://github.com/NihaallX/HouseGPT)** - Local sarcastic medical AI assistant embodying Dr. House with voice synthesis and RAG-enhanced responses
-- � **[Reinforcement-Learning](https://github.com/NihaallX/Reinforcement-Learning)** - CartPole RL suite with DQN, human-in-the-loop gameplay, and imitation learning
-- 🔧 **[RepoStructureAnalyzer-CleanupTool](https://github.com/NihaallX/RepoStructureAnalyzer-CleanupTool)** - Python repository structure analyzer with safe, read-only proposals and rollback support
-- 🎵 **[moodify](https://github.com/NihaallX/moodify)** - AI-powered mood-based music recommendation with Spotify integration and emotion detection
-- 🧠 **[multimodal-sentiment-analysis](https://github.com/NihaallX/multimodal-sentiment-analysis)** - CGRN: conflict-aware multimodal sentiment model that geometrically detects text-image disagreement and routes sarcastic samples through a specialized conflict branch
-- 📬 **[Application-where](https://github.com/NihaallX/Application-where)** - Automated job search CRM that scans Gmail with LLM classification and surfaces a live dashboard tracking applications, interviews, and rejections
+- 📬 **[Application-where](https://github.com/NihaallX/Application-where)** - Automated job search CRM that scans Gmail and tracks applications, interviews, and rejections
+- 🎵 **[moodify](https://github.com/NihaallX/moodify)** - Mood-based music recommendation app with Spotify integration and emotion detection
+- 📊 **[StockIntelligenceCopilot](https://github.com/NihaallX/StockIntelligenceCopilot)** - AI-assisted stock market analysis with probabilistic insights and explainable reasoning
 
 ##  About Me
 
-- 🔭 I'm currently working on **[SPAY](https://github.com/Gauravguddeti/spendly)**
+- 🔭 I'm currently working on **[SPAY](https://github.com/Gauravguddeti/spay)**
 - 🌱 I'm learning **MCPs (Model Context Protocol)**
 - 💬 Ask me about **GenAI, LLMs, Voice AI, Transformers, Prompt Engineering**
 - 👯 Looking to collaborate on **Voice Based AI Agents**
