@@ -21,20 +21,20 @@
 > AI Product Manager who ships AI products end-to-end, from user research and product strategy to LLM prototyping, evaluation, and launch.
 
 ## 🔗 Featured Projects
-💳 **[SPAY](https://github.com/Gauravguddeti/spay)** – an AI-powered SaaS spend tracker that tells Indian startups exactly where their tool budget is bleeding, before the next renewal hits.
+💳 **[SPAY](spay-kappa.vercel.app/)** – an AI-powered SaaS spend tracker that tells Indian startups exactly where their tool budget is bleeding, before the next renewal hits.
 
 ##  Current Projects
 
-- 🍽️ **[Khaoozy](https://github.com/CelticsGN/Khaoozy)** - College canteen pre-order app with live order tracking, UPI payments, and auto-refund workflows
-- 📡 **[crowd-signal](https://github.com/CelticsGN/crowd-signal)** - AI-assisted market crowd simulation system for probabilistic sentiment mapping and explainable decision support
-- 📞 **[relayX](https://github.com/Gauravguddeti/relayX)** - AI-powered voice calling platform that makes 1000s of personalized calls simultaneously
-- 🎓 **[ratemyprof](https://github.com/CelticsGN/ratemyprof)** - Professor and college rating platform with privacy-first reviews and moderation tooling
-- 🛰️ **[Spacenos-round1](https://github.com/NihaallX/Spacenos-round1)** - Product sprint build focused on rapid execution and launch-readiness
-- 💸 **[Neo-surgeMoney](https://github.com/NihaallX/Neo-surgeMoney)** - Personal finance product concept focused on smarter spend visibility and control
+- 🍽️ **[Khaoozy](https://khaoozy.tech/)** - College canteen pre-order app with live order tracking, UPI payments, and auto-refund workflows
+- 📡 **[crowd-signal](https://crowd-signal-rose.vercel.app/)** - AI-assisted market crowd simulation system for probabilistic sentiment mapping and explainable decision support
+- 📞 **[relayX](https://www.relayx.tech/)** - AI-powered voice calling platform that makes 1000s of personalized calls simultaneously
+- 🎓 **[ratemyprof](https://ratemyprof.me/)** - Professor and college rating platform with privacy-first reviews and moderation tooling
+- 🛰️ **[Warmpath-PM](https://ai-pm-portfolio.vercel.app/works/warmpath)** - Product sprint build focused on rapid execution and launch-readiness
+- 💸 **[Neo-surgeMoney](https://ai-pm-portfolio.vercel.app/works/fire)** - Personal finance product concept focused on smarter spend visibility and control
 - 🧠 **[multimodal-sentiment-analysis](https://github.com/NihaallX/multimodal-sentiment-analysis)** - CGRN model for conflict-aware multimodal sentiment analysis and routing
 - 🤖 **[Intern-stellar](https://github.com/NihaallX/Intern-stellar)** - AI-powered job discovery system that scrapes, scores, and emails relevant AI engineering roles
 - 📬 **[Application-where](https://github.com/NihaallX/Application-where)** - Automated job search CRM that scans Gmail and tracks applications, interviews, and rejections
-- 🎵 **[moodify](https://github.com/NihaallX/moodify)** - Mood-based music recommendation app with Spotify integration and emotion detection
+- 🎵 **[moodify](https://moodifyxd.vercel.app/landing.html)** - Mood-based music recommendation app with Spotify integration and emotion detection
 - 📊 **[StockIntelligenceCopilot](https://github.com/NihaallX/StockIntelligenceCopilot)** - AI-assisted stock market analysis with probabilistic insights and explainable reasoning
 
 ##  About Me
