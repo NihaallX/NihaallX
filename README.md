@@ -21,12 +21,13 @@
 > AI Product Manager who ships AI products end-to-end, from user research and product strategy to LLM prototyping, evaluation, and launch.
 
 ## 🔗 Featured Projects
-💳 **[SPAY](spay-kappa.vercel.app/)** – an AI-powered SaaS spend tracker that tells Indian startups exactly where their tool budget is bleeding, before the next renewal hits.
+- **[Drunkva](drunkva-in.vercel.app)** - Track your night. Share the story. A social drinking session tracker — Strava for nights out.
 
 ##  Current Projects
 
 - 🍽️ **[Khaoozy](https://khaoozy.tech/)** - College canteen pre-order app with live order tracking, UPI payments, and auto-refund workflows
 - 📡 **[crowd-signal](https://crowd-signal-rose.vercel.app/)** - AI-assisted market crowd simulation system for probabilistic sentiment mapping and explainable decision support
+- 💳 **[SPAY](spay-kappa.vercel.app/)** – an AI-powered SaaS spend tracker that tells Indian startups exactly where their tool budget is bleeding, before the next renewal hits.
 - 📞 **[relayX](https://www.relayx.tech/)** - AI-powered voice calling platform that makes 1000s of personalized calls simultaneously
 - 🎓 **[ratemyprof](https://ratemyprof.me/)** - Professor and college rating platform with privacy-first reviews and moderation tooling
 - 🛰️ **[Warmpath-PM](https://ai-pm-portfolio.vercel.app/works/warmpath)** - Product sprint build focused on rapid execution and launch-readiness
@@ -35,14 +36,13 @@
 - 🤖 **[Intern-stellar](https://github.com/NihaallX/Intern-stellar)** - AI-powered job discovery system that scrapes, scores, and emails relevant AI engineering roles
 - 📬 **[Application-where](https://github.com/NihaallX/Application-where)** - Automated job search CRM that scans Gmail and tracks applications, interviews, and rejections
 - 🎵 **[moodify](https://moodifyxd.vercel.app/landing.html)** - Mood-based music recommendation app with Spotify integration and emotion detection
-- 📊 **[StockIntelligenceCopilot](https://github.com/NihaallX/StockIntelligenceCopilot)** - AI-assisted stock market analysis with probabilistic insights and explainable reasoning
 
 ##  About Me
 
-- 🔭 I'm currently working on **[SPAY](https://github.com/Gauravguddeti/spay)**
-- 🌱 I'm learning **MCPs (Model Context Protocol)**
+- 🔭 I'm currently working on **[DRUNKVA](drunkva-in.vercel.app)**
+- 🌱 I'm learning **Product Management**
 - 💬 Ask me about **GenAI, LLMs, Voice AI, Transformers, Prompt Engineering**
-- 👯 Looking to collaborate on **Voice Based AI Agents**
+- 👯 Looking to collaborate on **AI and Product Intersection**
 - 📫 How to reach me: **nihalpardeshi12344@gmail.com**
 - 🌐 Website: **[Portfolio](https://ai-pm-portfolio.vercel.app/)**
 - 📄 My Resume: **[View Resume](https://drive.google.com/file/d/1NreqIV-RvmetzO28F9TDR_M0RoPNqsTB/view)**
